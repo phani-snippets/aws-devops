@@ -27,5 +27,5 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: '.'
+  base-directory: 'day-14/simple-python-app'
 
